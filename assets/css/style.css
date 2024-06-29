@@ -2157,7 +2157,7 @@ margin-top: 125px;
 
 /* Responsive iframe for smaller screens */
 .map-frame {
-  width: 100%;
+  width: 360px;
   height: 300px;
 }
 
@@ -2166,3 +2166,12 @@ margin-top: 125px;
  margin-top: 219px;
 }
 
+.hero-slider .slider-item:nth-child(2) .hero-title {
+  color:#240750;
+}
+.hero-slider .slider-item:nth-child(3) .hero-title {
+  color:#EFBC9B;
+}
+.hero-slider .slider-item:nth-child(1) .hero-title {
+  color:#E7D4B5;
+}
